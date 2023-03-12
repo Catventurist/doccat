@@ -1,4 +1,6 @@
-# Content v2 Minimal Starter
+# Content with Document-driven
+
+Making a minimalistic documentation site with a Cat theme.
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
 
